@@ -1,0 +1,19 @@
+{
+  "name": "pubsub.js",
+  "version": "0.1.0",
+  "description": "pubsub.js [![Code Climate](https://codeclimate.com/github/federico-lox/pubsub.js.png?a)][codeclimate] =========",
+  "main": "src/pubsub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HitFox/pubsub.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HitFox/pubsub.js/issues"
+  },
+  "homepage": "https://github.com/HitFox/pubsub.js"
+}
